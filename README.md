@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicolaMochi
 - 👀 I’m interested in Computer Science, Software and Robotics.
-- 🌱 I’m currently learning Computer Science and Automation Engineering at e Polytechnic University of Marche, UNIVPM.
+- 🌱 I’m currently learning Computer Science and Automation Engineering at Polytechnic University of Marche, UNIVPM.
 
 - 📫 How to reach me:
    Phone: 3313543358
